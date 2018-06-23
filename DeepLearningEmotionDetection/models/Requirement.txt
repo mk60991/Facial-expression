@@ -1,0 +1,5 @@
+Deeplearning emotion detection using 
+1. keras
+2. python3
+3. opencv3
+4. haarcascades classifier
