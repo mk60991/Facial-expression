@@ -1,1 +1,10 @@
+python3
+openCV3
+numpy
+facial_expression_model_structure.json
+facial_expression_model_weights.h5
+haarcascade_frontalface_default.xml
 
+
+run:
+facialExpression.py
